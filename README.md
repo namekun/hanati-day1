@@ -188,7 +188,7 @@ C:\kosta187\workspace\Fundamental>java HelloWorld
 
 ## 자바 응용프로그램 동작원리(중요!)
 
-![자바실행과정](https://t1.daumcdn.net/cfile/tistory/2540294C5654207F26)
+![자바실행과정](https://t1.daumcdn.net/cfile/tistory/25616D45576B854C3F)
 
 * 소스코드를 컴파일러를 통해 바이트 코드로 바꿔준다. 
 * 클래스 로더로 바이트 코드를 가져와서, 바이트 코드에서 검증, 그리고 인터프리터로 해석해서 실행결과를 보여준다.
